@@ -1,0 +1,24 @@
+{
+  "name": "apppractica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "start": "node index.js",
+    "type": "git",
+    "url": "git+https://github.com/EleazarCabello/appPractica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EleazarCabello/appPractica/issues"
+  },
+  "homepage": "https://github.com/EleazarCabello/appPractica#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
